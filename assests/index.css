@@ -2,8 +2,12 @@
 
 
 header{
-    border: 1px solid red;
-    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    background-color: peachpuff;
+    padding: 30px;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 figure{
