@@ -1,0 +1,45 @@
+
+
+
+header{
+    border: 1px solid red;
+    height: 10vh;
+}
+
+figure{
+    border: 1px solid blue;
+    height: 20vh;
+}
+
+#aboutMe, #work, #contact {
+    border: 1px solid green;
+    height: 30vh;
+}
+
+#work{
+   border: 1px solid black;
+   height: 100vh;
+}
+
+#contact{
+    border: 1px solid black;
+    height: 20vh;
+}
+
+#aboutMe{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.section-title{
+    flex-basis: 20%;
+    border-right-color: black;
+    border-right-width: 1px;
+    border-right-style: solid;
+}
+
+
+.section-content{
+    flex-basis: 80%;
+}
