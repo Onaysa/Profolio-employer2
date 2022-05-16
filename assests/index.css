@@ -1,27 +1,38 @@
 
 
+*{
+    margin: 0;
+    padding: 0;
+}
 
+body{
+    font-family: sans-serif;
+}
 header{
-    display: flex;
-    justify-content: space-between;
-    background-color: peachpuff;
-    padding: 30px;
-    font-size: large;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+
+    
+    
 }
 
 .About{
     position: absolute;
-    background-color: violet;
+    background-color: grey;
     padding: 30px;
     margin: 20px 20px 50px;
 }
     
-    
+.Personal-Image{
+    width: 100px;
+    height: 100px;
+    margin: 50px 0 0 50px;
+}    
+
 
 
 #aboutMe, #work, #contact {
-    border: 1px solid green;
+    border: 1px solid black;
     height: 30vh;
 }
 
@@ -38,6 +49,11 @@ header{
 #aboutMe{
     display: flex;
     flex-wrap: wrap;
+    background-image: url("../assests/images/AD2C042D-E2C7-4C98-9E0E-68CDCE584045_1_105_c.jpeg");
+    background-position: 0px -350px ;
+    background-size: cover;
+    padding-bottom: 30px;
+
 }
 
 
