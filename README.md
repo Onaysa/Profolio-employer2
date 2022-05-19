@@ -5,7 +5,7 @@
 
 - Why did you build this project? 
 Building this project is highly important because it shows what kind of a web developer
- I am. To showcase my work to potenial employers,to prsesnt of my relevant skills and abilities.
+ I am. Also to showcase my work to potenial employers,to prsesnt of my relevant skills and abilities.
 
 
 
@@ -25,8 +25,8 @@ Building this project is highly important because it shows what kind of a web de
 
 I used Boostsrap for my nav bar, and I have also used pngtree from my image.
 I have aslo watched some youtube videos that helped, here are the links:
-<a href="https://www.youtube.com/watch?v=v0IgI8vYD_o&t=2065s"></a>
-<a href="https://www.youtube.com/watch?v=Sv_NAxi_jNs"></a>
+! ["https://www.youtube.com/watch?v=v0IgI8vYD_o&t=2065s"]
+! ["https://www.youtube.com/watch?v=Sv_NAxi_jNs"]
 
 
 ## License
