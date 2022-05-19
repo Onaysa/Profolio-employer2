@@ -13,13 +13,12 @@ Building this project is highly important because it shows what kind of a web de
 
 ## Usage
 
-'''md 
-!{alt text} <img src="./assests/images/screen ">
 
+ ![project1](./assests/images/screenshot.png)
 
 
     
-    
+)   
 
 ## Credits
 
